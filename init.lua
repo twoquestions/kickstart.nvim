@@ -161,7 +161,7 @@ vim.opt.scrolloff = 10
 vim.opt.hlsearch = true
 
 vim.opt.tabstop = 2
-vim.opt.softtabstop = 2
+--vim.opt.softtabstop = 2
 vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
 
 -- Diagnostic keymaps
